@@ -22,6 +22,6 @@ afin de créer les paquets flooders, ainsi que de réaliser la dangerosité des 
   
   --> Le fonctionnement physique d'un flag SYN sur une machine
   
- Comme d'habitude, n'hésitez pas à récupérer et améliorer ce code, mais par contre, n'en faites pas des choses d'illégal !!
+ Comme d'habitude, n'hésitez pas à récupérer et améliorer ce code, mais par contre, n'en usez pas de manière illégale !!
  
  Si vous souhaitez me contacter, mon mail : aiglematth@protonmail.com
